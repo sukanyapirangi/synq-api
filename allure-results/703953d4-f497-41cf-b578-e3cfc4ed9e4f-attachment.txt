@@ -1,0 +1,2 @@
+status 201
+Response {'success': True, 'comment': {'id': 'da77ef5f-1cb5-4f33-98e6-5483fcc0b8f0', 'postId': 'b8ae0757-0a86-493e-86d6-9749dd89ee2b', 'username': 'ulluka', 'text': 'test comment', 'createdAt': 1784702700142, 'mentions': {}, 'user': {'username': 'ulluka', 'profilePic': '', 'displayName': 'user'}}}

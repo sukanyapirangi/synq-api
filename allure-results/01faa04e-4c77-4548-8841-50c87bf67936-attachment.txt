@@ -1,0 +1,2 @@
+status 200
+Response {'success': True, 'reactionType': None, 'count': 0, 'action': 'removed', 'mongoCount': 0, 'gunOperationsStatus': {'total': 2, 'failed': 2, 'success': 0}}

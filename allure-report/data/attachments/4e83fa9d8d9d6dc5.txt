@@ -1,0 +1,2 @@
+Status: 200
+Response: {'success': True, 'follower': 'ulluka', 'following': 'ranchod', 'targetFollowerCount': 1, 'followerFollowingCount': 1, 'message': 'Follow operation initiated successfully'}

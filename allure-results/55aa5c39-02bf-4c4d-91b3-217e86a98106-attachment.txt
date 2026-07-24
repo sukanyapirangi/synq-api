@@ -1,0 +1,2 @@
+Status: 200
+Response: {'following': [{'_id': 'ranchod', 'id': '323b7b2b-1949-4adf-9d2f-881b587c9067', 'username': 'ranchod', 'bio': '', 'profilePic': '', 'displayName': '', 'did': '', 'isFollowing': True}], 'pagination': {'page': 1, 'limit': 20, 'total': 1, 'pages': 1}}

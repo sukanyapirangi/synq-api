@@ -1,0 +1,2 @@
+status 200
+Response {'success': True, 'reactionType': 'like', 'count': 1, 'action': 'added', 'mongoError': 'MongoDB update timeout', 'warning': 'Gun operations completed but MongoDB sync failed'}

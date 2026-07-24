@@ -1,0 +1,2 @@
+Status: 200
+Response: {'success': True, 'follower': 'ulluka', 'unfollowed': 'ranchod', 'message': 'Unfollow operation initiated successfully'}

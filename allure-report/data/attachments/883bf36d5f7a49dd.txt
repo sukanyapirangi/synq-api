@@ -1,0 +1,3 @@
+Status: 201
+Response: {'success': True, 'post': {'id': 'f70eac54-86d4-408e-acd2-00419afca233', 'text': 'Uploaded through automation', 'image': None, 'images': [], 'imageCount': 0, 'video': None, 'contentType': 'text', 'isReelFormat': False, 'createdAt': 1784615784274, 'metadata': {'type': 'post', 'contentType': 'text', 'isReelFormat': False, 'tags': {}, 'mentions': {}, 'textVerdict': 'ERROR', 'verdict': {'0': {'filename': 'sampleimg.png', 'verdict': 'ERROR'}}}}}
+Created Post ID: f70eac54-86d4-408e-acd2-00419afca233

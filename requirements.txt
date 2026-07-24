@@ -1,0 +1,13 @@
+requests
+pytest
+pytest-html
+allure-pytest
+python-dotenv
+jsonschema
+jsonpath-ng
+Faker
+requests-toolbelt
+colorlog
+pytest-xdist
+pytest-order
+pytest-rerunfailures
